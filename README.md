@@ -1,4 +1,4 @@
-beyler bu kod nasıl calışır anlatayım bu kod kali linux'ta çalışır (orada daha rahat olduğu icin) kurulum aşağıda
+beyler bu kod nasıl calışır anlatayım bu kod TERMUX, kali linux hepsinde çalışır tavsiyem kali linuxta kurun daha rahat kurulum aşağıda
 # bypassbeast
 WAF bypass payload generator for Kali Linux
 
